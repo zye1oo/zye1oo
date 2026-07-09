@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&text=Jihye's%20Github&fontSize=75&desc=Welcome%20to&descSize=40&descAlignY=30&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&text=Jihye's%20Github&fontSize=75&desc=Welcome%20to&descSize=40&descAlignY=30&fontColor=000000)
 
 ## 👋 About Me
 
